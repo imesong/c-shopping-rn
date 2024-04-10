@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "c-shopping-rn",
-    "slug": "c-shopping-rn",
+    "name": "c-shop",
+    "slug": "c-shop",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -36,7 +36,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "6008f07d-60c7-4445-a5f6-8ac27597dcee"
+        "projectId": "289f8df7-367d-4cc7-89f5-df37984df7ab"
       }
     }
   }
